@@ -1,0 +1,4 @@
+*.venv
+bok_sv.docx
+glossary.csv
+.DS_Store
